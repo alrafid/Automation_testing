@@ -1,0 +1,12 @@
+OrangrHRM
+1. Login
+2. Verify Login Successfully
+3. Go to My Info
+4. Verify My Info page open Successfully
+5. Update First name
+6. Select Nationality
+7. Select Maritial Status
+8. Enter Date of Birth
+9. Save  
+
+https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
